@@ -1,6 +1,7 @@
 
 /**
  * Author Daniel M.Idrees enggdaniyal@hotmail.com
+ * www.techgrasp.pk
  */
 
 public class Mammal extends Animal {
